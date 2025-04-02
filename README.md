@@ -1,6 +1,11 @@
 # Titanic-Survivor-Prediction.ipynb
+
+[Coursera Link for Project](https://www.coursera.org/programs/data-science-elective-batch-of-2026-f30yc/projects/titanic-survival-prediction-using-machine-learning?source=search)
+
 The Titanic dataset is a classic dataset widely used in machine learning and data analysis. 
 It provides information about the passengers aboard the RMS Titanic,which sank after hitting an iceberg on its maiden voyage in 1912.
+
+
 
 
 Key Features of the Dataset:
